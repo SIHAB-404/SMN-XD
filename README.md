@@ -1,4 +1,3 @@
-#Command 
 rm -rf SMN-XD 
 
 git clone https://github.com/SIHAB-404/SMN-XD.git 
