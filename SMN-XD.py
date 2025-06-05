@@ -1,2 +1,2 @@
 import SMN
-SMN.say_hello()
+Main.Menu()
