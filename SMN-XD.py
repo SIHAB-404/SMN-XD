@@ -1,3 +1,3 @@
 import os
 import SMN
-Main.Menu()
+SMN.Menu()
