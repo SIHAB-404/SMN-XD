@@ -1,3 +1,13 @@
+#Command 
+rm -rf SMN-XD 
+
+git clone https://github.com/SIHAB-404/SMN-XD.git 
+
+cd SMN-XD 
+
+python SMN-XD.py 
+
+
 # SMN-XD 
 ![1000017434](https://github.com/user-attachments/assets/0e514655-3120-4f74-9388-8046ea908981)
 
