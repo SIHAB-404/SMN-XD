@@ -13,5 +13,7 @@ if changes:
 
 os.system("chmod 777 *")
 
+if '64' in bit:
+    import loging
 if '32' in bit:
-    import login
+    import l
