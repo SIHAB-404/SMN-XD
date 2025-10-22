@@ -19,8 +19,6 @@ def main():
         import loging
     elif '32' in bit:
         import login
-    else:
-        print(f"[!] Unknown architecture: {bit}")
 
 if __name__ == "__main__":
     main()
